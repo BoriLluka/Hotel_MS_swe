@@ -1,0 +1,6 @@
+1. Hotel Owners should monitor financial performance of the hotel in different periods of time.
+2. Housekeeping employees should clean the rooms daily at a given time or as prefered by the guests.
+3. Hotel Owners should set overall prices of services and change the prices if needed.
+4. Guests should be able to cancel the reservation 30 days prior to the reserved date.
+5. Hotel Owners should monitor the performance of Management. 
+6. Guests should be able to file complains if not given proper service or as stated in the policies.
